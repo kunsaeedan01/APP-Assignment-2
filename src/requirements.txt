@@ -1,0 +1,6 @@
+pip install bs4
+pip install requests 
+pip install lxml
+
+from bs4 import BeautifulSoup
+from coinScrapper import Scrapper
